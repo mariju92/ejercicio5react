@@ -18,7 +18,7 @@ El fin de este trabajo es comenzar a practicar con react.
 ## Como clonar el repositorio 💻
 
  ```bash 
-git 
+git https://github.com/mariju92/ejercicio5react.git
 ```
 ## Como contribuir con el repositorio 🤝
 Para contribuir en el proyecto puede ponerse en contacto con el siguiente email: 
